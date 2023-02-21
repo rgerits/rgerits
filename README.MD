@@ -1,6 +1,6 @@
 <h2>Hello, I'm Ronald Gerits!</h2>
 <p><em>Laravel application developer</em></p>
-'''php
+```php
 <?php
 
 namespace App\Models;
@@ -51,7 +51,6 @@ class Ronald extends User
         return ['laravel', 'html', 'git', 'docker', 'PHP', 'test driven development'];
     }
 }
-
-'''
+```
 # Dino all day long :-)
 ![Alt Text](https://github.com/rgerits/rgerits/blob/main/dino.gif)
