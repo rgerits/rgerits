@@ -43,7 +43,8 @@ class Ronald extends User
             [
                 'companyName' => 'Remote Syslog',
                 'role' => 'Laravel developer',
-                'current' => false],
+                'current' => false
+            ],
         ]);
     }
 
