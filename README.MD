@@ -1,6 +1,7 @@
 <h2>Hello, I'm Ronald Gerits!</h2>
 <p><em>Laravel application developer</em></p>
-
+<h3>Skills</h3>
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ```php
 <?php
 
