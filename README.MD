@@ -57,11 +57,6 @@ class Ronald extends User
             ],
         ]);
     }
-
-    public function skills()
-    {
-        return ['laravel', 'html', 'git', 'docker', 'PHP', 'test driven development'];
-    }
 }
 ```
 # Dino all day long :-)
