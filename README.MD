@@ -30,7 +30,7 @@ class Ronald extends User
 {
     use Notifiable;
     
-    public function laravelCertified(Person $person)
+    public function laravelCertified(User $user)
     {
         if($person->name == "Ronald Gerits") return true;
         else return null;
