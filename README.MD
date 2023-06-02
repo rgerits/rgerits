@@ -1,7 +1,7 @@
 # Hello, I'm Ronald Gerits!
 Laravel application developer
 
-Laravel certification: pending :smiley:
+Laravel certified! :smiley:
 ## Skills
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,6 +29,12 @@ use Illuminate\Support\Collection;
 class Ronald extends User
 {
     use Notifiable;
+    
+    public function laravelCertified(Person $person)
+    {
+        if($person->name == "Ronald Gerits") return true;
+        else return null;
+    }
 
     public function lookingFor()
     {
