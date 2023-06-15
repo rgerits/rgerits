@@ -2,10 +2,9 @@
 Application developers
 
 ## Certifications:
-- Laravel Certified
-- Pending: Vue Certified
+- Laravel Certified! :)
+- Vue Certification: **pending!**
 
-Laravel certified! :smiley:
 ## Stack used
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
