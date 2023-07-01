@@ -43,7 +43,7 @@ class Ronald extends User
 
     public function lookingFor()
     {
-        return cache()->remember('lookingfor', now()->addMonth(6), fn() => [
+        return cache()->remember('lookingfor', now()->addMonth(12), fn() => [
             'job' => 'Freelance consultancy',
             'parttime' => true,
             'hours' => [
