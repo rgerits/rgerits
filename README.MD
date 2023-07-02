@@ -37,7 +37,7 @@ class Ronald extends User
     
     public function laravelCertified(User $user)
     {
-        if($person->name == "Ronald Gerits") return true;
+        if($user->name == "Ronald Gerits") return true;
         else return null;
     }
 
