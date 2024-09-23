@@ -57,20 +57,25 @@ class Ronald extends User
     public function workExperience()
     {
         return collect([
+            [    
+                'companyName' => 'Somnius International'
+                'role' => 'Owner',
+                'current' => true,
+            ],
             [
                 'companyName' => 'Gerits Consultancy',
                 'role' => 'Owner',
-                'current' => true
+                'current' => false,
             ],
             [
                 'companyName' => 'Taghopper',
                 'role' => 'Owner / developer',
-                'current' => true
+                'current' => true,
             ],
             [
                 'companyName' => 'Remote Syslog',
                 'role' => 'Laravel developer',
-                'current' => false
+                'current' => false,
             ],
         ]);
     }
