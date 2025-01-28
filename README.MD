@@ -58,7 +58,7 @@ class Ronald extends User
     {
         return collect([
             [    
-                'companyName' => 'Somnius International'
+                'companyName' => 'Somnius International',
                 'role' => 'Owner',
                 'current' => true,
             ],
