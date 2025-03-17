@@ -1,5 +1,5 @@
 # Hello, I'm Ronald Gerits!
-Application developers
+Application developer
 
 ## Certifications:
 - Laravel Certified! :)
